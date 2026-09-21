@@ -57,7 +57,7 @@ The LDR-based automatic poultry lighting system was successfully designed  and i
 **Conclusion**  
          The project demonstrates how an LDR sensor can be used to automate lighting in a poultry farm. The system detects low light conditions and automatically switches ON the bulb, reducing manual operation and helping provide a suitable environment for chicks.
 
-##Resut : 
+##Result : 
 ![Result](Circuit.jpeg)
 ![Result](Result.jpeg)
 ![Result](Simulation.jpeg)
